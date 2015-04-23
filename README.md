@@ -2,7 +2,7 @@
 
 [Ripped from bonzo](https://github.com/ded/bonzo) :heart: @ded
 
-``` js
+``` JavaScript
 classie.has( element, 'my-class' ) // returns true/false
 classie.add( element, 'my-new-class' ) // add new class
 classie.remove( element, 'my-unwanted-class' ) // remove class
